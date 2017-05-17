@@ -1,0 +1,81 @@
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Forms.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Unity.Forms.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Core.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Xml.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Forms.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Unity.Forms.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Unity.Forms.dll.config
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Core.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Xml.xml
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.App.xaml.g.cs
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Views.MainPage.xaml.g.cs
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Views.WeatherDetail.xaml.g.cs
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\elusiven\Documents\Visual Studio 2017\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Forms.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Unity.Forms.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Core.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Xml.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Forms.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Unity.Forms.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Prism.Unity.Forms.dll.config
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Core.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Xml.xml
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.App.xaml.g.cs
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Views.MainPage.xaml.g.cs
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Views.WeatherDetail.xaml.g.cs
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.mdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll.mdb
+C:\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.mdb
